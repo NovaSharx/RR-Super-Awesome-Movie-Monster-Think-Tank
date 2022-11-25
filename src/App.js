@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
 import AboutUs from './components/AboutUs'
 import Packages from './components/Packages'
 
